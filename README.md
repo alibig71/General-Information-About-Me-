@@ -2,7 +2,7 @@
 
 Hi Everyone and welcome to my Github Profile, 
 
-My name is Alireza Bigdeli and currently I am a chemical engineering Ph.D. student at the Federal University of Ceara in Brazil. I have B.Sc. and M.Sc degrees in the field of petroleum and reservoir engineering from the Univeristy of Tehran. And my profeesional programmingg langugae is Fortran. Also, I am learning Python recently. 
+My name is Alireza Bigdeli and currently I am a chemical engineering Ph.D. student at the Federal University of Ceara in Brazil. I have B.Sc. and M.Sc degrees in the field of petroleum and reservoir engineering from the Univeristy of Tehran. Profeesionally I am working with Fortran programmingg langugae. Also, I am learning Python recently. 
 
 You can reach to me by my Email address: -- Alirezabigdeli71@gmail.com -- 
 
